@@ -1,7 +1,0 @@
-<h1>Weather Forecast!</h1>
-
-<p>This weather is getting colder!</p>
-
-<p>Utah weather is way different from California.</p>
-
-<h2>I think I pesonally prefer California weather. </h2>
