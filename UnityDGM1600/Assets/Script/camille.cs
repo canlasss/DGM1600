@@ -8,6 +8,7 @@ public class camille : MonoBehaviour {
 	void Start ()
     {
         print("My name is camille");
+        // this is the comment for the assignment "in-class: intro to vs, vs code or mono develop.
 	}
 	
 	// Update is called once per frame
